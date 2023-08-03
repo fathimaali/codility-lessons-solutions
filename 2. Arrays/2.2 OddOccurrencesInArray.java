@@ -1,3 +1,5 @@
+//https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
+
 // you can also use imports, for example:
 import java.util.*;
 
